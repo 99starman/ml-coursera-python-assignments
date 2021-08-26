@@ -1,3 +1,5 @@
+My solutions to the assignments of the Coursera ML course, in Python
+##
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
